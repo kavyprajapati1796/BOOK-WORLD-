@@ -1,0 +1,26 @@
+{
+  "name": "dashboard-analytics-app",
+  "version": "1.0.0",
+  "description": "A dashboard analytics application with sidebar navigation and detailed analytics.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "chart.js": "^3.6.0",
+    "recharts": "^2.1.0",
+    "typescript": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2"
+  },
+  "homepage": ".",
+  "license": "MIT"
+}
